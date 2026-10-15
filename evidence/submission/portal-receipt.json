@@ -1,0 +1,46 @@
+{
+  "kind": "observed saved TinyBounties submission receipt",
+  "observedAt": "2026-10-15T07:50:15.345837+00:00",
+  "observedAtIndia": "2026-10-15T13:20:15.345837+05:30",
+  "project": "FirstStep",
+  "bounty": "Job Portal / Careers Finder",
+  "portal": "https://www.tinybounties.com/crm?view=claims",
+  "authorization": "User replied YES to approval of the shown completed bounty form.",
+  "submitClickedOnce": true,
+  "successHeading": "Bounty submitted",
+  "successMessage": "Your build is now in the TinyFish review queue. You can track its status from your profile.",
+  "submitted": true,
+  "portalStatus": "IN REVIEW",
+  "submittedDateDisplayed": "Oct 15, 2026",
+  "persistedAfterReload": true,
+  "submissionId": null,
+  "submissionIdLimitation": "No unique submission ID was exposed in the visible saved record.",
+  "buildUrl": "https://github.com/himanshu748/firststep-careers-finder",
+  "linkedInPostUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7516400819064430592/",
+  "xPostUrl": "https://x.com/jhahimanshu653/status/2110637512951832769",
+  "discordShowcaseUrl": "https://discord.com/channels/1200506685236711554/1554420983539048508/threads/1560194202103717948",
+  "approvedFormReviewCopy": "completed-form.json",
+  "approvedNotesSha256": "2c88d30562419706d035b0e4b762586aaee73b962daf51b7a9dd42147c4b5297",
+  "savedNotesVisuallyMatchedApprovedNotes": true,
+  "notesCharacters": 1756,
+  "savedAttachments": [
+    {
+      "filename": "live-combined-desktop-2026-10-15.jpg",
+      "url": "https://peaceful-lion-524.convex.cloud/api/storage/07a02b7b-00d0-48dc-b76a-930088e5373c"
+    },
+    {
+      "filename": "live-combined-mobile-2026-10-15.jpg",
+      "url": "https://peaceful-lion-524.convex.cloud/api/storage/24b3a0ab-4241-421d-9e78-baaf5cffeab2"
+    }
+  ],
+  "savedRecordShowsSocialLinks": false,
+  "socialLinksLimitation": "LinkedIn and X URLs were verified in the approved form before submission; the saved card exposes build URL, notes and attachments but no dedicated social-link fields.",
+  "sponsorApproval": null,
+  "pointsAwarded": null,
+  "payout": null,
+  "purchasesOrTopUps": false,
+  "screenshotsStoredLocally": [
+    "bounty-submitted-2026-10-15.jpg",
+    "bounty-record-2026-10-15.jpg"
+  ]
+}

@@ -47,7 +47,7 @@ Scoring: 1 endpoint 50 points; 2 endpoints 100; 3+ endpoints 200. Endpoints must
 
 The live submission form requires a repository/live-demo/Cookbook link and both LinkedIn and X post URLs. TinyFish Discord showcase sharing is included in the reviewer notes. Earlier statements that X was optional were incorrect. The user approved this public repository and the LinkedIn/Discord drafts, then separately approved the exact additional X post. All published links were verified and are recorded in `SUBMISSION.md`.
 
-Careers Finder was open immediately before claiming it on 15 October to prepare the build form. The Student tier was verified CURRENT. The exact closing timestamp was not displayed. The completed form includes reviewer notes and two genuine demo screenshots. The final Submit bounty button remains untouched and needs separate user approval. No sponsor approval, points or payout is claimed.
+Careers Finder was open immediately before claiming it on 15 October to prepare the build form. The Student tier was verified CURRENT. The exact closing timestamp was not displayed. The completed form includes reviewer notes and two genuine demo screenshots. After the user separately approved the completed form, Submit bounty was clicked once. The saved record shows Submitted Oct 15, 2026 and IN REVIEW after reloading; both screenshots and the approved notes are retained. No sponsor approval, points or payout is claimed.
 
 No AGENTS.md or CONTRIBUTING file was found in the workspace or its ancestor directories. Existing unrelated text-the-web files are preserved.
 
@@ -61,4 +61,4 @@ The Agent beta step-cap rejection is resolved by the official documented 150-ste
 
 Earlier Agent runs with `engineer` / `San Francisco` returned Affirm's entry-level role; the successful combined run used `software engineer` with no location constraint and returned internships. This establishes meaningful different-input behavior alongside offline filter tests. Two-page maximum pagination remains fixture-tested rather than a claim that every employer was exhaustively paginated live.
 
-The user then authorized a bounded daily-limit increase for immediate validation. The ledger preserved 39 used requests and now shows 46 of 64. The default is 40; no per-run, employer, job, Agent step or spending cap changed. No sponsor approval or endpoint points are claimed. No bounty submission occurred. Source publication and approved social posts are recorded above.
+The user then authorized a bounded daily-limit increase for immediate validation. The ledger preserved 39 used requests and now shows 46 of 64. The default is 40; no per-run, employer, job, Agent step or spending cap changed. No sponsor approval or endpoint points are claimed. After separate final user approval, the bounty was submitted and verified IN REVIEW. Source publication, approved social posts and the saved portal receipt are recorded above.

@@ -1,6 +1,6 @@
 # FirstStep verification, 15 October 2026
 
-**Technical gates passed. Publication and social posts verified; completed form awaits final approval.** The default Search/Agent/Fetch workflow passed its combined two-employer live demo. The repository, LinkedIn, TinyFish Discord showcase and separately approved X post are published. The bounty form is filled and unsubmitted.
+**Technical gates passed. Publication and social posts verified; bounty submitted and IN REVIEW.** The default Search/Agent/Fetch workflow passed its combined two-employer live demo. The repository, LinkedIn, TinyFish Discord showcase and separately approved X post are published. The user approved the completed form and its saved submission was verified after reloading.
 
 ## Successful combined live demo
 
@@ -51,14 +51,14 @@ The beta-only custom step-cap rejection and earlier duration-only workaround rej
 | `submission/rules-check.json`, `submission/status.json` | Read-only program observation and local readiness ledger; neither is a saved submission |
 | `submission/archive-smoke.json`, `submission/secret-scan.json` | Clean extraction and scoped credential checks; not publication authority |
 
-## Rules, secrets and remaining approvals
+## Rules, secrets and saved submission
 
-Careers Finder was open before the portal claim required to prepare its form. The exact brief and rulebook were reread; the Student tier is CURRENT. The live form requires a build link plus LinkedIn and X URLs. This corrects the earlier X-optional statement. The actual verified repository and three social links are in `../docs/SUBMISSION.md` and `submission/publication-receipts.json`. The completed review copy is `submission/completed-form.json`. No final submission occurred.
+Careers Finder was open before the portal claim required to prepare its form. The exact brief and rulebook were reread; the Student tier is CURRENT. The live form requires a build link plus LinkedIn and X URLs. This corrects the earlier X-optional statement. The actual verified repository and three social links are in `../docs/SUBMISSION.md` and `submission/publication-receipts.json`. The completed review copy is `submission/completed-form.json`. The user later approved the completed form; `submission/portal-receipt.json` records the successful final submission and persisted IN REVIEW status.
 
 The installed secret scanner passed its staged-parent scope with zero findings; those staged files belong to another project and do not cover this untracked app. The release packager separately scans every selected source/evidence byte and actual ZIP member against the configured TinyFish key and selected credential patterns. No matched values are printed. `.env.example` is zero bytes; private environment/history, balances, dependencies, compiled output and unrelated projects are excluded. This is a scoped scan, not a guarantee about unknown secret formats or Git history.
 
 Design triage fixed contrast and the empty-state icon tile. Narrow persisted exceptions retain the intentional Space Grotesk face and a light-surface shadow falsely flagged as dark glow. No contrast rule or whole file is suppressed; no design findings were left standing in the last scoped scan. This is not a full WCAG certification.
 
-Source and approved social posts are published. The bounty was claimed to prepare the completed form. The remaining action is separate user approval before final submission; Submit bounty has not been clicked.
+Source and approved social posts are published. The bounty was claimed to prepare the completed form. The user separately approved final submission. The portal confirmed Bounty submitted; the saved card retains the approved notes and both screenshots and shows IN REVIEW after reloading. No sponsor approval, points or payout is claimed.
 
 Publication scan: the installed staged text scanner reported zero findings with eight binary assets omitted. A separate byte scan covered all 81 staged files, including those fonts and genuine screenshots, for the configured key and selected credential patterns with zero matches. All 80 manifest inputs matched their reviewed hashes. Unknown credential formats and image OCR are outside that scan.

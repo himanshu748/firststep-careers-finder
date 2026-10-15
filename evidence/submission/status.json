@@ -1,9 +1,9 @@
 {
-  "kind": "local readiness ledger; NOT a saved portal submission",
+  "kind": "readiness ledger backed by observed saved portal receipt",
   "checkedOn": "2026-10-15",
   "bounty": "Job Portal / Careers Finder",
   "project": "FirstStep",
-  "verdict": "publication_and_required_social_posts_verified_completed_form_awaits_final_approval",
+  "verdict": "submitted_in_review",
   "rules": {
     "source": "https://www.tinybounties.com/crm?view=board",
     "signedInBoardAndRulebookRead": true,
@@ -64,19 +64,20 @@
     "linkedInPostUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7516400819064430592/",
     "discordPostUrl": "https://discord.com/channels/1200506685236711554/1554420983539048508/threads/1560194202103717948",
     "submissionId": null,
-    "submissionReceipt": null,
+    "submissionReceipt": "portal-receipt.json",
     "published": true,
-    "submitted": false,
+    "submitted": true,
     "posted": true,
     "xPostUrl": "https://x.com/jhahimanshu653/status/2110637512951832769",
-    "formComplete": true
+    "formComplete": true,
+    "portalStatus": "IN REVIEW",
+    "submittedDateDisplayed": "Oct 15, 2026",
+    "persistedAfterReload": true
   },
-  "remaining": [
-    "Obtain explicit approval for the completed bounty form before submitting"
-  ],
-  "approvalSource": "User approved source publication, LinkedIn/Discord drafts, then the exact additional X post; final bounty submission remains reserved.",
+  "remaining": [],
+  "approvalSource": "User replied YES to approval of the shown completed bounty form.",
   "verificationInProgress": false,
-  "checkedAt": "2026-10-15T07:45:11.169549+00:00",
+  "checkedAt": "2026-10-15T07:50:15.345837+00:00",
   "dailyRequestBudget": {
     "used": 46,
     "limit": 64,

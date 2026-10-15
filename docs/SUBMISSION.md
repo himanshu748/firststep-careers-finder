@@ -1,10 +1,10 @@
 # FirstStep submission package
 
-Updated 15 October 2026. Source and approved social posts are published. The bounty is claimed and its completed form awaits separate final submission approval. Nothing has been submitted for this bounty.
+Updated 15 October 2026. Source and approved social posts are published. The user approved the completed form, and the bounty was submitted. The saved portal record shows **IN REVIEW**, verified after reloading. No sponsor approval, points or payout is claimed.
 
 ## Readiness verdict
 
-**Technical gates passed. Publication verified; completed form ready for final approval.** The combined Search/Agent/Fetch demo returned two open, source-verified jobs at Affirm and Cloudflare, with a partial label for its one-candidate-per-employer scope. CLI exit 0. Fifty-one core/CLI tests and five browser tests pass. The source package includes runnable code, setup instructions, a demo script, genuine redacted evidence and retained historical failures.
+**Submitted successfully; saved portal status IN REVIEW.** The combined Search/Agent/Fetch demo returned two open, source-verified jobs at Affirm and Cloudflare, with a partial label for its one-candidate-per-employer scope. CLI exit 0. Fifty-one core/CLI tests and five browser tests pass. The source package includes runnable code, setup instructions, a demo script, genuine redacted evidence and retained historical failures.
 
 Verified build: https://github.com/himanshu748/firststep-careers-finder
 
@@ -14,9 +14,9 @@ Verified TinyFish Discord showcase: https://discord.com/channels/120050668523671
 
 Verified X: https://x.com/jhahimanshu653/status/2110637512951832769
 
-The completed form contains the repository and both required social URLs, 1,756 characters of reviewer notes including the Discord link, and two genuine desktop/mobile demo captures. `evidence/submission/completed-form.json` records the exact fields. The final Submit bounty button has not been clicked.
+The completed form contains the repository and both required social URLs, 1,756 characters of reviewer notes including the Discord link, and two genuine desktop/mobile demo captures. `evidence/submission/completed-form.json` records the exact fields. The user then approved this form; Submit bounty was clicked once, both media uploads succeeded, and the portal confirmed Bounty submitted. `evidence/submission/portal-receipt.json` records the persisted saved entry. The earlier completed-form.json remains the unchanged pre-submission review copy.
 
-The signed-in Careers Finder brief, open board, rulebook and Student CURRENT tier were rechecked on 15 October. The rulebook accepts a repository, live demo or cookbook PR as the build link. The live form requires LinkedIn and X post links, plus sharing in TinyFish Discord #showcase. This corrects the earlier statement that X was optional. Entries are individual, one per person/bounty, top three approved, with eighteen days from launch. The exact closing timestamp was not displayed. Recheck open status just before submitting; submissions are final.
+The signed-in Careers Finder brief, open board, rulebook and Student CURRENT tier were rechecked on 15 October. The rulebook accepts a repository, live demo or cookbook PR as the build link. The live form requires LinkedIn and X post links, plus sharing in TinyFish Discord #showcase. This corrects the earlier statement that X was optional. Entries are individual, one per person/bounty, top three approved, with eighteen days from launch. The exact closing timestamp was not displayed. The submitted entry is final; no additional submission or post was made.
 
 ## Portal draft
 
@@ -71,6 +71,6 @@ https://github.com/himanshu748/firststep-careers-finder
 
 1. The user approved publication of the exact reviewed source archive as this public repository. The initial commit preserves those bytes; documentation updates record actual external state.
 2. LinkedIn and TinyFish Discord showcase drafts were published after explicit approval. The live bounty form also required an X post. The user approved that additional exact draft, which is now published.
-3. The bounty was claimed to open its submission form. All required links, reviewer notes and two genuine demo screenshots are filled. Final submission still requires the user's separate approval. No submission receipt, sponsor approval, points or payout is claimed.
+3. The user separately approved the completed form. The portal confirmed Bounty submitted and its saved Careers Finder card shows Submitted Oct 15, 2026 and IN REVIEW after reloading, with the approved notes and both uploaded screenshots. A receipt is retained; sponsor approval, points and payout remain unclaimed.
 
 The original reviewed archive remains unchanged, SHA-256 `815e9dff689dfd89dcbed6db288291db16c3590a98f1f1d1cfabdf0fa0e178e4`. The current README and publication receipts supersede pre-publication status text in that dated archive.
