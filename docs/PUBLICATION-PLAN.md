@@ -1,13 +1,16 @@
-# FirstStep publication plan for approval
+# FirstStep publication record
 
-This plan authorizes no external action. The user's instruction requires separate approval before publication, social posts or bounty submission.
+On 15 October 2026 the user explicitly approved publishing the reviewed source payload as public `https://github.com/himanshu748/firststep-careers-finder`, then posting the reviewed LinkedIn and TinyFish Discord showcase drafts. The user separately approved the additional X post required by the live bounty form. Final bounty submission remains a separate approval gate.
 
-The proposed repository is `himanshu748/firststep-careers-finder`, public, with the description “Source-checked developer internships and entry-level roles using TinyFish Search, Agent and Fetch.” A read-only GitHub check confirmed the signed-in owner is `himanshu748`; the proposed repository was not found. It has not been created. The package's local app name remains `firststep-careers-finder`.
+The initial public commit is `4ee5d3ef093d3c0f58045a43b2f4d18cfe10def0`. Its 81 files match the reviewed archive payload, SHA-256 `815e9dff689dfd89dcbed6db288291db16c3590a98f1f1d1cfabdf0fa0e178e4`. No parent workspace files were published. The archive remains unchanged; later documentation records current publication state.
 
-The publication payload is exactly the application folder from `release/firststep-careers-finder-0.1.0-source.zip`. Its adjacent SHA-256 and manifest identify the reviewed bytes. Publish that folder as the repository root. Do not publish the parent workspace or its staged Brand Guide files. Exclude `.env`, `.data`, dependencies, compiled output and local account state; the packager checks these exclusions. No API key, wallet balance, saved-job history or browser session token belongs in the repository.
+Verified links:
 
-After approval to publish this source payload, create the repository, push only its reviewed contents and verify the resulting repository link and README. A repository link is an accepted build-link format in the current bounty rulebook; no paid deployment is needed. Replace the pending build link in the drafts in `SUBMISSION.md` with the verified URL.
+- Repository: https://github.com/himanshu748/firststep-careers-finder
+- LinkedIn, with actual TinyFish company mention: https://www.linkedin.com/feed/update/urn:li:activity:7516400819064430592/
+- TinyFish Discord showcase: https://discord.com/channels/1200506685236711554/1554420983539048508/threads/1560194202103717948
+- X, with @Tiny_Fish: https://x.com/jhahimanshu653/status/2110637512951832769
 
-LinkedIn and TinyFish Discord `#showcase` are separate publication actions. Review their final text and destination, obtain approval, publish, and retain the actual post links. Select the actual TinyFish company mention on LinkedIn. X is optional and no X post is planned.
+The live form requires LinkedIn and X links. Earlier documentation calling X optional was incorrect. The bounty was claimed to prepare the form. Its repository, social URLs, reviewer notes and two genuine desktop/mobile captures are filled; Submit bounty has not been clicked. See `evidence/submission/completed-form.json` for the exact review copy. No sponsor approval, points or payout is claimed.
 
-Before final bounty submission, reopen the signed-in board and confirm the bounty remains open. Its exact closing timestamp was not displayed when reviewed. Fill the verified repository and required social links, show the completed form for final approval, then submit only after approval and retain the saved portal receipt. Do not claim the bounty or mark this ledger as submitted before that action.
+Credentials, wallet balances, private history, dependencies and compiled output are excluded. No purchase, top-up or paid deployment occurred. Before eventual submission, obtain explicit user approval of the completed form and then retain the actual saved portal receipt.

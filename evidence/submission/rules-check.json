@@ -12,5 +12,18 @@
   "closingDateLimitation": "Reviewed portal surfaces do not display an exact closing timestamp; recheck open status immediately before final submission",
   "personalProfileFieldsCopied": false,
   "externalStateChanged": false,
-  "briefAndRulebookReopened": true
+  "briefAndRulebookReopened": true,
+  "latestFormObservation": {
+    "checkedAt": "2026-10-15T07:45:11.169549+00:00",
+    "openBeforeClaim": true,
+    "claimedForFormPreparation": true,
+    "buildSubmitted": false,
+    "submissionLinkRequired": true,
+    "linkedInRequired": true,
+    "xRequired": true,
+    "discordShowcaseInNotes": true,
+    "notesLimit": 2000,
+    "mediaOptional": true,
+    "submitButtonUntouched": true
+  }
 }

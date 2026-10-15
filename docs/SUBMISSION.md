@@ -1,20 +1,28 @@
 # FirstStep submission package
 
-Prepared 15 October 2026. Nothing has been published, posted, claimed or submitted for this bounty.
+Updated 15 October 2026. Source and approved social posts are published. The bounty is claimed and its completed form awaits separate final submission approval. Nothing has been submitted for this bounty.
 
 ## Readiness verdict
 
-**Technical gates passed. Ready for publication approval.** The combined Search/Agent/Fetch demo returned two open, source-verified jobs at Affirm and Cloudflare, with a partial label for its one-candidate-per-employer scope. CLI exit 0. Fifty-one core/CLI tests and five browser tests pass. The source package includes runnable code, setup instructions, a demo script, genuine redacted evidence and retained historical failures.
+**Technical gates passed. Publication verified; completed form ready for final approval.** The combined Search/Agent/Fetch demo returned two open, source-verified jobs at Affirm and Cloudflare, with a partial label for its one-candidate-per-employer scope. CLI exit 0. Fifty-one core/CLI tests and five browser tests pass. The source package includes runnable code, setup instructions, a demo script, genuine redacted evidence and retained historical failures.
 
-Final submission still needs the user's approval-dependent external actions: publish the reviewed repository, publish the required LinkedIn and Discord posts, then review the completed bounty form and approve submission. The source package and drafts below make those actions reviewable. Localhost is not a public build link.
+Verified build: https://github.com/himanshu748/firststep-careers-finder
 
-The signed-in Careers Finder brief, open board, rulebook and Student CURRENT tier were rechecked on 15 October. The rulebook accepts a repository, live demo or cookbook PR as the build link. LinkedIn tagging TinyFish and TinyFish Discord #showcase are required; X is optional. Entries are individual, one per person/bounty, top three approved, with eighteen days from launch. The exact closing timestamp was not displayed. Recheck open status just before submitting; submissions are final.
+Verified LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7516400819064430592/
+
+Verified TinyFish Discord showcase: https://discord.com/channels/1200506685236711554/1554420983539048508/threads/1560194202103717948
+
+Verified X: https://x.com/jhahimanshu653/status/2110637512951832769
+
+The completed form contains the repository and both required social URLs, 1,756 characters of reviewer notes including the Discord link, and two genuine desktop/mobile demo captures. `evidence/submission/completed-form.json` records the exact fields. The final Submit bounty button has not been clicked.
+
+The signed-in Careers Finder brief, open board, rulebook and Student CURRENT tier were rechecked on 15 October. The rulebook accepts a repository, live demo or cookbook PR as the build link. The live form requires LinkedIn and X post links, plus sharing in TinyFish Discord #showcase. This corrects the earlier statement that X was optional. Entries are individual, one per person/bounty, top three approved, with eighteen days from launch. The exact closing timestamp was not displayed. Recheck open status just before submitting; submissions are final.
 
 ## Portal draft
 
 Title: FirstStep: a source-checked careers finder for your first developer role
 
-Build URL: BUILD_LINK_PENDING. The proposed public repository is `himanshu748/firststep-careers-finder`. It was not found in the read-only GitHub check and has not been created. Publish only the reviewed archive payload after approval, as specified in [PUBLICATION-PLAN.md](PUBLICATION-PLAN.md), then insert the verified URL.
+Build URL: https://github.com/himanshu748/firststep-careers-finder
 
 Description:
 
@@ -30,7 +38,7 @@ Evidence: [VERIFICATION.md](../evidence/VERIFICATION.md), `live-agent-combined-2
 
 ## LinkedIn draft
 
-Publication approval required. Replace BUILD_LINK_PENDING with the verified repository link and select the actual [TinyFish company mention](https://linkedin.com/company/tinyfish-ai/).
+Published with user approval and the selected actual [TinyFish company mention](https://linkedin.com/company/tinyfish-ai/).
 
 I built FirstStep for the TinyFish Job Portal / Careers Finder bounty. It searches public employer career pages for internships and entry-level developer roles, then keeps the source, requirements and checked timestamp with each result.
 
@@ -38,28 +46,31 @@ TinyFish Search discovers the pages, Agent reads the listings and Fetch verifies
 
 FirstStep has filters, local saves and CSV export, with five employers and twenty candidates maximum per run. Unknown eligibility stays unknown. A remote label never means someone in India can apply.
 
-Build and reproduction notes: BUILD_LINK_PENDING
+Build and reproduction notes: https://github.com/himanshu748/firststep-careers-finder
 
 @TinyFish
 
 ## Discord #showcase draft
 
-Publication approval required. Replace BUILD_LINK_PENDING with the verified repository link.
+Published to TinyFish showcase with user approval.
 
 FirstStep is my build for the Job Portal / Careers Finder bounty. It finds early-career developer roles through TinyFish Search, Agent and Fetch, with source checks, explicit unknowns, geographic restrictions, local saves and CSV export. Each run is capped at five employers and twenty candidates.
 
 The combined live demo returned verified internships at Affirm and Cloudflare on 15 October. It checked one candidate per employer and labels the remaining scope partial. The package includes 51 core/CLI tests, five browser tests, labeled offline fixtures and genuine live receipts.
 
-Build: BUILD_LINK_PENDING
+Build: https://github.com/himanshu748/firststep-careers-finder
 
-## Approval sequence
+## X post
 
-1. Approve publishing only the reviewed source payload as public `himanshu748/firststep-careers-finder`; verify its actual URL afterward. No paid deployment is needed.
-2. Approve the LinkedIn and TinyFish Discord #showcase drafts above, with BUILD_LINK_PENDING replaced by that verified URL; publish and retain the actual post links. X is optional.
-3. Recheck the open board, fill the verified build and social links, review the completed form and obtain explicit approval to claim/submit. Retain the actual saved portal receipt afterward.
+Published after the user separately approved this exact additional text required by the live form:
 
-These approvals are required by the user's instruction. No publication or submission authority is inferred from the urgent request to raise the local request allowance.
+Built FirstStep with @Tiny_Fish Search, Agent and Fetch: source-checked developer internships, filters, local saves and CSV. Live Affirm + Cloudflare demo; partial scope and unknown eligibility stay visible.
+https://github.com/himanshu748/firststep-careers-finder
 
-## What changed in the drafts
+## Approval status
 
-Replaced the resolved live-demo blocker with the genuine combined pass, updated the source fields and test count, and retained historical failures and current scope limits. The no-ai-slop editing and evaluation checks were applied directly; pending links stay pending, and no public URL, score, approval or final submission is invented.
+1. The user approved publication of the exact reviewed source archive as this public repository. The initial commit preserves those bytes; documentation updates record actual external state.
+2. LinkedIn and TinyFish Discord showcase drafts were published after explicit approval. The live bounty form also required an X post. The user approved that additional exact draft, which is now published.
+3. The bounty was claimed to open its submission form. All required links, reviewer notes and two genuine demo screenshots are filled. Final submission still requires the user's separate approval. No submission receipt, sponsor approval, points or payout is claimed.
+
+The original reviewed archive remains unchanged, SHA-256 `815e9dff689dfd89dcbed6db288291db16c3590a98f1f1d1cfabdf0fa0e178e4`. The current README and publication receipts supersede pre-publication status text in that dated archive.

@@ -4,7 +4,7 @@ A local careers finder for developer internships and entry-level roles. The exac
 
 The interface follows the user's custom-design guide, with locally bundled Manrope and Space Grotesk fonts, an authored source-workflow diagram, responsive 40px-plus controls, short state feedback and reduced-motion handling. Font licenses and provenance are included in `public/fonts`. It preserves the native HTML/TypeScript stack and the existing palette.
 
-**Status, 15 October 2026:** the combined live demo passed with two open, source-verified internships from Affirm and Cloudflare using TinyFish Search, Agent and Fetch. It used seven provider requests and retains a partial label because it checked one candidate per employer. The app passes 51 core/CLI tests and five browser tests. Source evidence, CSV, screenshots, historical failures and actual timestamps are included. The technical submission gates are satisfied; source publication, required social posts and final submission await the user's approval. See [the approval drafts](docs/SUBMISSION.md).
+**Status, 15 October 2026:** the combined live demo passed with two open, source-verified internships from Affirm and Cloudflare using TinyFish Search, Agent and Fetch. It used seven provider requests and retains a partial label because it checked one candidate per employer. The app passes 51 core/CLI tests and five browser tests. Source evidence, CSV, screenshots, historical failures and actual timestamps are included. The source is public and the LinkedIn, TinyFish Discord showcase and additionally approved X posts are verified. The completed bounty form awaits the user's separate final approval. See [submission status and verified links](docs/SUBMISSION.md).
 
 ## Run locally
 
@@ -106,7 +106,7 @@ The exact bounty asks for Search, Fetch and Agent. The combined run `26f6e0ca-5c
 
 The user explicitly authorized increasing the local daily request limit from 40 to 64 for immediate validation. The 39 already used were retained; the successful run brought usage to 46. The default stays 40, with configuration capped at 64. No spending ceiling, backend duration, step reservation or per-run cap was increased. SDK replies may take up to 180 seconds, while Agent execution remains capped at sixty seconds. No purchases or top-ups were made.
 
-Publishing, deployment, social posts, claiming/submitting the bounty and paid infrastructure remain explicit approval gates. The bounty rulebook’s social-sharing requirement does not override the user’s restriction. Nothing has been published or submitted.
+The user approved publishing this repository and the LinkedIn/Discord posts, then approved the additional X post required by the live form. The bounty was claimed to prepare its form; the completed form remains unsubmitted pending separate final approval. No purchases, top-ups or paid deployment occurred. `RELEASE-MANIFEST.json` records the original reviewed source payload at commit `4ee5d3ef093d3c0f58045a43b2f4d18cfe10def0`; later documentation records publication receipts.
 
 ## Local source package
 

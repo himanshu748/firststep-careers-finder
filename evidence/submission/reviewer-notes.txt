@@ -1,0 +1,9 @@
+FirstStep finds developer internships and entry-level roles from public employer career pages. Preferences cover keywords, location, work arrangement, employment type, seniority and visa. Each run considers at most five employers and twenty candidates. Results preserve source links, checked timestamps, requirements, literal keyword matches and unknown fields. Remote never implies eligibility from India.
+
+TinyFish Search discovers official careers URLs, Agent reads permitted listings, and Fetch checks access rules and corroborates sources. Removing TinyFish stops the live workflow. The 15 October combined demo returned an Affirm internship in San Francisco (hybrid) and a Cloudflare internship in Lisbon (on-site), using seven requests and 16/9 Agent steps. Coverage remains partial: one candidate per employer.
+
+Includes filters, browser-local saved jobs and formula-safe CSV. Server-side keys, URL/DNS checks, persistent request limits, wallet checks and full Agent reservations bound approved existing free credits. No applications, resume uploads, employer accounts, contact, purchases or top-ups.
+
+Validation: 51 core/CLI tests and five isolated browser tests pass. Runnable setup, demo script, source-checked jobs, genuine redacted receipts and desktop/mobile captures are in the repository. Fixtures never seed production. Seven employers are reviewed; live evidence covers three across Agent and optional Browser. Maximum pagination is fixture-tested. Local single-user app; provider DNS, intermediate Fetch redirects and internal Agent navigation remain documented trust boundaries. No endpoint score or approval is claimed.
+
+Discord showcase: https://discord.com/channels/1200506685236711554/1554420983539048508/threads/1560194202103717948

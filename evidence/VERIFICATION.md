@@ -1,6 +1,6 @@
 # FirstStep verification, 15 October 2026
 
-**Technical gates passed. Ready for publication approval.** The default Search/Agent/Fetch workflow passed its combined two-employer live demo. Source publication, required LinkedIn/Discord posts and final bounty submission still require the user's approval. None has occurred.
+**Technical gates passed. Publication and social posts verified; completed form awaits final approval.** The default Search/Agent/Fetch workflow passed its combined two-employer live demo. The repository, LinkedIn, TinyFish Discord showcase and separately approved X post are published. The bounty form is filled and unsubmitted.
 
 ## Successful combined live demo
 
@@ -53,12 +53,12 @@ The beta-only custom step-cap rejection and earlier duration-only workaround rej
 
 ## Rules, secrets and remaining approvals
 
-The current signed-in board still listed Careers Finder open and unclaimed. The exact brief and rulebook were reread; the Student tier is CURRENT. A repository link is accepted. LinkedIn tagging TinyFish and sharing in TinyFish Discord #showcase are required; X is optional. The exact closing timestamp was not displayed. Recheck open status immediately before eventual submission.
-
-The proposed public repository `himanshu748/firststep-careers-finder` was not found in the read-only GitHub check. It has not been created. The reviewed ZIP is the proposed publication payload. Its README, portal copy and social drafts are ready in `docs/SUBMISSION.md` and `docs/PUBLICATION-PLAN.md`; pending URLs must be replaced with verified links after approval-dependent actions.
+Careers Finder was open before the portal claim required to prepare its form. The exact brief and rulebook were reread; the Student tier is CURRENT. The live form requires a build link plus LinkedIn and X URLs. This corrects the earlier X-optional statement. The actual verified repository and three social links are in `../docs/SUBMISSION.md` and `submission/publication-receipts.json`. The completed review copy is `submission/completed-form.json`. No final submission occurred.
 
 The installed secret scanner passed its staged-parent scope with zero findings; those staged files belong to another project and do not cover this untracked app. The release packager separately scans every selected source/evidence byte and actual ZIP member against the configured TinyFish key and selected credential patterns. No matched values are printed. `.env.example` is zero bytes; private environment/history, balances, dependencies, compiled output and unrelated projects are excluded. This is a scoped scan, not a guarantee about unknown secret formats or Git history.
 
 Design triage fixed contrast and the empty-state icon tile. Narrow persisted exceptions retain the intentional Space Grotesk face and a light-surface shadow falsely flagged as dark glow. No contrast rule or whole file is suppressed; no design findings were left standing in the last scoped scan. This is not a full WCAG certification.
 
-Nothing has been published, posted, claimed or submitted. The remaining actions require the user's explicit approval: publish the source, publish the required social drafts with actual links, then review and approve the completed bounty submission.
+Source and approved social posts are published. The bounty was claimed to prepare the completed form. The remaining action is separate user approval before final submission; Submit bounty has not been clicked.
+
+Publication scan: the installed staged text scanner reported zero findings with eight binary assets omitted. A separate byte scan covered all 81 staged files, including those fonts and genuine screenshots, for the configured key and selected credential patterns with zero matches. All 80 manifest inputs matched their reviewed hashes. Unknown credential formats and image OCR are outside that scan.

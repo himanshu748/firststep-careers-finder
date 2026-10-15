@@ -1,0 +1,48 @@
+{
+  "kind": "verified publication receipts; NOT a bounty submission",
+  "checkedAt": "2026-10-15T07:45:11.169549+00:00",
+  "authorization": "User explicitly approved publishing himanshu748/firststep-careers-finder and the reviewed LinkedIn and TinyFish Discord showcase drafts. Final bounty form requires separate approval.",
+  "sourceArchiveSha256": "815e9dff689dfd89dcbed6db288291db16c3590a98f1f1d1cfabdf0fa0e178e4",
+  "repository": {
+    "url": "https://github.com/himanshu748/firststep-careers-finder",
+    "public": true,
+    "commit": "4ee5d3ef093d3c0f58045a43b2f4d18cfe10def0",
+    "verifiedBy": "GitHub API repository, commit and README response",
+    "files": 81
+  },
+  "linkedIn": {
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7516400819064430592/",
+    "published": true,
+    "tinyFishMention": "https://www.linkedin.com/company/tinyfish-ai/",
+    "verifiedBy": "Post successful notification and permalink with actual TinyFish company link"
+  },
+  "discord": {
+    "url": "https://discord.com/channels/1200506685236711554/1554420983539048508/threads/1560194202103717948",
+    "published": true,
+    "server": "TinyFish",
+    "channel": "showcase",
+    "threadTitle": "FirstStep \u2014 source-checked developer internships and entry-level roles",
+    "tag": "App",
+    "verifiedBy": "Post created notification and published thread content in signed-in Comet"
+  },
+  "bountySubmitted": false,
+  "purchasesOrTopUps": false,
+  "secretScan": {
+    "installedScannerTextFindings": 0,
+    "installedScannerOmittedBinaryAssets": 8,
+    "allStagedFilesKnownKeyAndSelectedPatternsMatches": 0,
+    "manifestFilesByteVerified": 80,
+    "stagedFiles": 81,
+    "limits": "Known configured key and selected patterns only; binary fonts and genuine screenshots included in byte scan; no general OCR or unknown credential format guarantee."
+  },
+  "x": {
+    "url": "https://x.com/jhahimanshu653/status/2110637512951832769",
+    "published": true,
+    "authorization": "User explicitly approved the exact additional X draft after the live form required it.",
+    "tinyFishMention": "https://x.com/Tiny_Fish",
+    "verifiedBy": "Published post in signed-in Comet and its actual permalink"
+  },
+  "bountyClaimed": true,
+  "bountyFormComplete": true,
+  "socialAndPortalScreenshotsStoredLocallyOnly": true
+}
