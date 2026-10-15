@@ -1,0 +1,113 @@
+{
+  "kind": "genuine redacted SDK metadata; candidates are UNVERIFIED and never inserted into production",
+  "checkedAt": "2026-10-15T05:56:48.194Z",
+  "providerRequests": 1,
+  "recordsReturned": 5,
+  "matchingOwnRuns": 5,
+  "records": [
+    {
+      "employer": "Affirm",
+      "createdAt": "2026-10-15T05:55:31Z",
+      "status": "COMPLETED",
+      "steps": 8,
+      "errorCategory": null,
+      "errorSignals": null,
+      "candidates": [
+        {
+          "kind": "unverified Agent candidate, not a production job",
+          "title": "Software Engineer, Early Career (SF)",
+          "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+          "workArrangement": "hybrid",
+          "seniority": "entry-level",
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "employer": "Cloudflare",
+      "createdAt": "2026-10-15T05:53:56Z",
+      "status": "COMPLETED",
+      "steps": 12,
+      "errorCategory": null,
+      "errorSignals": null,
+      "candidates": [
+        {
+          "kind": "unverified Agent candidate, not a production job",
+          "title": "Software Engineer Intern (2027)",
+          "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+          "workArrangement": "unknown",
+          "seniority": "internship",
+          "status": "open"
+        },
+        {
+          "kind": "unverified Agent candidate, not a production job",
+          "title": "Software Engineer Intern (2027)",
+          "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+          "workArrangement": "unknown",
+          "seniority": "internship",
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "employer": "Affirm",
+      "createdAt": "2026-10-15T05:50:53Z",
+      "status": "COMPLETED",
+      "steps": 15,
+      "errorCategory": null,
+      "errorSignals": null,
+      "candidates": [
+        {
+          "kind": "unverified Agent candidate, not a production job",
+          "title": "Software Engineer, Early Career (SF)",
+          "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+          "workArrangement": "hybrid",
+          "seniority": "entry-level",
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "employer": "Together AI",
+      "createdAt": "2026-10-15T05:50:44Z",
+      "status": "FAILED",
+      "steps": 0,
+      "errorCategory": "AGENT_FAILURE",
+      "errorSignals": {
+        "timeout": false,
+        "browser": false,
+        "internal": false,
+        "blocked": false,
+        "schema": false
+      },
+      "candidates": []
+    },
+    {
+      "employer": "Affirm",
+      "createdAt": "2026-10-15T05:21:01Z",
+      "status": "COMPLETED",
+      "steps": 15,
+      "errorCategory": null,
+      "errorSignals": null,
+      "candidates": [
+        {
+          "kind": "unverified Agent candidate, not a production job",
+          "title": "Software Engineer, Early Career (SF)",
+          "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+          "workArrangement": "onsite",
+          "seniority": "unknown",
+          "status": "open"
+        },
+        {
+          "kind": "unverified Agent candidate, not a production job",
+          "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
+          "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+          "workArrangement": "onsite",
+          "seniority": "internship",
+          "status": "open"
+        }
+      ]
+    }
+  ],
+  "rawMessagesRetained": false
+}

@@ -1,0 +1,93 @@
+{
+  "kind": "TinyFish live search evidence",
+  "recordedAt": "2026-10-15T06:30:48.056Z",
+  "checkedAt": "2026-10-15T06:30:46.627Z",
+  "runId": "26f6e0ca-5cff-4ae2-a419-a9861ea53b17",
+  "workflow": "agent",
+  "input": {
+    "keywords": "software engineer",
+    "location": "",
+    "remote": "any",
+    "employmentType": "any",
+    "seniority": "early-career",
+    "visa": "any",
+    "domains": [
+      "affirm.com",
+      "cloudflare.com"
+    ],
+    "maxJobs": 2
+  },
+  "status": "partial",
+  "requests": 7,
+  "reports": [
+    {
+      "employer": "Affirm",
+      "status": "partial",
+      "code": null,
+      "count": 1,
+      "pagesVisited": 1,
+      "agentSteps": 16
+    },
+    {
+      "employer": "Cloudflare",
+      "status": "partial",
+      "code": null,
+      "count": 1,
+      "pagesVisited": 2,
+      "agentSteps": 9
+    }
+  ],
+  "error": null,
+  "jobs": [
+    {
+      "title": "Software Engineer Intern (Summer 2027)",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+      "location": "San Francisco, California, United States",
+      "workArrangement": "hybrid",
+      "geographicRestriction": null,
+      "experienceRequirements": "· This position requires either equivalent practical experience or a Bachelor’s degree in a related field.",
+      "seniority": "internship",
+      "employmentType": "internship",
+      "postedDate": null,
+      "deadline": null,
+      "visaSponsorship": null,
+      "sponsorshipAvailable": null,
+      "excerpt": "Software Engineer Intern (Summer 2027)",
+      "status": "open",
+      "employer": "Affirm",
+      "employerId": "affirm",
+      "checkedAt": "2026-10-15T06:29:08.167Z",
+      "id": "3dc524723115ae344a0a184c",
+      "matches": [
+        "software",
+        "engineer"
+      ],
+      "sourceVerified": true
+    },
+    {
+      "title": "Software Engineer Intern (2027)",
+      "sourceUrl": "https://job-boards.greenhouse.io/cloudflare/jobs/8245197",
+      "location": "Lisbon, PT",
+      "workArrangement": "onsite",
+      "geographicRestriction": null,
+      "experienceRequirements": "Currently pursuing a degree or program in Computer Science, Engineering, Mathematics, Statistics or relevant field to the role.",
+      "seniority": "internship",
+      "employmentType": "internship",
+      "postedDate": null,
+      "deadline": null,
+      "visaSponsorship": null,
+      "sponsorshipAvailable": null,
+      "excerpt": "At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.",
+      "status": "open",
+      "employer": "Cloudflare",
+      "employerId": "cloudflare",
+      "checkedAt": "2026-10-15T06:30:46.624Z",
+      "id": "10a01d2a062e95292f6fc4e2",
+      "matches": [
+        "software",
+        "engineer"
+      ],
+      "sourceVerified": true
+    }
+  ]
+}

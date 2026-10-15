@@ -1,0 +1,2 @@
+import {defineConfig} from '@playwright/test';
+export default defineConfig({testDir:'./tests/ui',workers:1,use:{baseURL:'http://127.0.0.1:4318',browserName:'chromium'},webServer:{command:'node dist/src/server.js',url:'http://127.0.0.1:4318',timeout:120000,reuseExistingServer:false,env:{PORT:'4318',TINYFISH_API_KEY:'',FREE_CREDITS_APPROVED:'false',USE_SHARED_TINYFISH_KEY:'false',MAX_DAILY_REQUESTS:'40'}},reporter:'list'});

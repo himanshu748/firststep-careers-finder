@@ -1,0 +1,29 @@
+
+> firststep-careers-finder@0.1.0 pretest:ui
+> npm run build
+
+
+> firststep-careers-finder@0.1.0 build
+> tsc
+
+
+> firststep-careers-finder@0.1.0 test:ui
+> playwright test
+
+[2m[WebServer] [22m(node:84555) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[2m[WebServer] [22m(Use `node --trace-warnings ...` to show where the warning was created)
+[2m[WebServer] [22m(node:84555) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+
+Running 5 tests using 1 worker
+
+(node:84583) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:84583) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓  1 tests/ui/flow.spec.ts:2:1 › real setup state, empty saved view, server gates and mobile layout (5.7s)
+  ✓  2 tests/ui/flow.spec.ts:16:1 › OFFLINE TEST FIXTURE: cards, unknown geography, save persistence, filters and CSV (3.2s)
+  ✓  3 tests/ui/flow.spec.ts:33:1 › OFFLINE TEST FIXTURE: failed polling preserves an explicit interruption state (4.3s)
+  ✓  4 tests/ui/flow.spec.ts:39:1 › OFFLINE TEST FIXTURE: empty and blocked states remain honest (1.2s)
+  ✓  5 tests/ui/flow.spec.ts:47:1 › custom-design: local fonts, 360 to 1440 layouts, touch targets and reduced motion (884ms)
+
+  5 passed (21.4s)

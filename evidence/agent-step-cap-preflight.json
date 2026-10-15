@@ -1,0 +1,18 @@
+{
+  "kind": "TinyFish live search evidence",
+  "checkedAt": "2026-10-14T13:28:48.529Z",
+  "runId": "cddc7948-aa6d-4130-86d3-a74ec2f94719",
+  "status": "failed",
+  "requests": 4,
+  "reports": [
+    {
+      "employer": "Stripe",
+      "status": "failed",
+      "code": "agent_step_limit_unavailable",
+      "count": 0,
+      "pagesVisited": null
+    }
+  ],
+  "error": "agent_step_limit_unavailable",
+  "jobs": []
+}

@@ -1,0 +1,87 @@
+{
+  "kind": "observed local readiness checks; not sponsor approval or a saved submission",
+  "checkedAt": "2026-10-15T07:10:18.115640+00:00",
+  "typecheck": {
+    "command": "npm run check",
+    "exitCode": 0
+  },
+  "build": {
+    "command": "npm run build",
+    "exitCode": 0
+  },
+  "coreTests": {
+    "command": "npm test",
+    "passed": 51,
+    "failed": 0,
+    "providerCalls": 0,
+    "exitCode": 0,
+    "includesFinalSourceLabelRegression": true,
+    "includesAuthorizedDailyLimitRegression": true
+  },
+  "browserTests": {
+    "command": "npm run test:ui",
+    "passed": 5,
+    "failed": 0,
+    "exitCode": 0,
+    "providerCalls": 0,
+    "testServerCredentialsDisabled": true,
+    "fixturesExplicitlyLabeled": true
+  },
+  "liveAgent": {
+    "sourceVerifiedEmployers": [
+      "Affirm",
+      "Cloudflare"
+    ],
+    "combinedDemoPassed": true,
+    "latestError": null,
+    "latestRequests": 7,
+    "demoExitCode": 0,
+    "runId": "26f6e0ca-5cff-4ae2-a419-a9861ea53b17",
+    "checkedAt": "2026-10-15T06:30:46.627Z",
+    "agentSteps": [
+      16,
+      9
+    ],
+    "scope": "partial: one candidate per employer"
+  },
+  "dailyRequests": {
+    "used": 46,
+    "limit": 64,
+    "default": 40,
+    "timezone": "Asia/Kolkata",
+    "ledgerReset": false,
+    "limitRaisedWithUserApproval": true,
+    "previousLimit": 40,
+    "authorizationReceipt": "request-limit-authorization.json"
+  },
+  "unexecutedLiveEdits": [
+    "optional auxiliary source-refresh helper revision; not required by the demonstrated workflow"
+  ],
+  "extractedArchive": {
+    "receipt": "submission/archive-smoke.json",
+    "finalCheckPending": false,
+    "lockedDependenciesInstalled": true,
+    "typecheckExitCode": 0,
+    "coreTestsPassed": 51,
+    "buildExitCode": 0,
+    "localhostSecurityPassed": true,
+    "applicationFilesMatchedToWorkspace": 35,
+    "privateEnvironmentAndHistoryAbsent": true,
+    "providerCalls": 0,
+    "temporaryServerStopped": true
+  },
+  "published": false,
+  "submitted": false,
+  "manualLatestCombinedRun": {
+    "runId": "26f6e0ca-5cff-4ae2-a419-a9861ea53b17",
+    "jobs": 2,
+    "desktop1280pxCapture": true,
+    "mobile390pxCapture": true,
+    "hybridKeepsOnlyAffirm": true,
+    "onsiteKeepsOnlyCloudflare": true,
+    "savedAcrossReload": true,
+    "savedSnapshotCount": 4,
+    "actualCsvRows": 2,
+    "noSyntheticProductionDataInserted": true
+  }
+}

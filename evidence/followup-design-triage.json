@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-10-14T13:08:19.226Z",
+  "fixed": [
+    {
+      "rule": "low-contrast",
+      "file": "/Users/himanshujha/Documents/ChatGPT/tinyfish/careers-finder/public/index.html",
+      "evidence": "4.48:1 (need 4.5:1) — text #657169 on #eef1ee",
+      "resolution": "Disabled export foreground darkened from #657169 to #52695b on #eef1ee; no contrast exception used"
+    },
+    {
+      "rule": "icon-tile-stack",
+      "file": "/Users/himanshujha/Documents/ChatGPT/tinyfish/careers-finder/public/index.html",
+      "evidence": "55x55px icon tile above h3 \"Good opportunities start with a search.\"",
+      "resolution": "Removed the decorative rounded icon tile from the empty state"
+    }
+  ],
+  "suppressed": [
+    {
+      "rule": "overused-font",
+      "file": "/Users/himanshujha/Documents/ChatGPT/tinyfish/careers-finder/public/index.html",
+      "value": "space grotesk",
+      "reason": "Intentional display face chosen under the primary custom-design guide, paired with Manrope; exact-font, file-scoped CLI exceptions"
+    },
+    {
+      "rule": "overused-font",
+      "file": "/Users/himanshujha/Documents/ChatGPT/tinyfish/careers-finder/public/style.css",
+      "value": "space grotesk",
+      "reason": "Intentional display face chosen under the primary custom-design guide, paired with Manrope; exact-font, file-scoped CLI exceptions"
+    }
+  ],
+  "leftStanding": []
+}

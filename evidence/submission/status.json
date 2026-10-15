@@ -1,0 +1,88 @@
+{
+  "kind": "local readiness ledger; NOT a saved portal submission",
+  "checkedOn": "2026-10-15",
+  "bounty": "Job Portal / Careers Finder",
+  "project": "FirstStep",
+  "verdict": "technical_gates_passed_ready_for_publication_approval",
+  "rules": {
+    "source": "https://www.tinybounties.com/crm?view=board",
+    "signedInBoardAndRulebookRead": true,
+    "workingBuildAcceptedFormats": [
+      "repository",
+      "live demo",
+      "cookbook PR"
+    ],
+    "linkedInRequired": true,
+    "discordShowcaseRequired": true,
+    "xRequired": false,
+    "individualEntry": true,
+    "daysFromLaunch": 18,
+    "exactDeadline": null,
+    "programEligibilityVerified": true,
+    "currentProgram": "Student",
+    "bountyOpenWhenChecked": true,
+    "exactDeadlineNotDisplayed": true
+  },
+  "technology": {
+    "sdk": "@tiny-fish/sdk@0.8.0",
+    "genuineLiveEndpoints": [
+      "Search",
+      "Agent",
+      "Fetch",
+      "Browser"
+    ],
+    "agent": "genuine_combined_Search_Agent_Fetch_demo_passed",
+    "endpointPointsClaimed": null,
+    "maxAgentCreditReserveUSDPerEmployer": 3,
+    "maxAgentCreditReserveUSDPerRun": 15
+  },
+  "quality": {
+    "coreTestsPassed": 51,
+    "browserTestsPassed": 5,
+    "successfulBrowserRunOn": "2026-10-14",
+    "genuineEmployers": 3,
+    "sourcePagesRecheckedOn": "2026-10-15",
+    "freshFullRunTodayPassed": true,
+    "latestFullRunError": null,
+    "fixturesInProduction": false,
+    "genuineEmployersAcrossAllWorkflows": 3,
+    "genuineAgentEmployers": 2,
+    "genuineAgentCombinedDemoPassed": true,
+    "latestRunId": "26f6e0ca-5cff-4ae2-a419-a9861ea53b17",
+    "latestDemoExitCode": 0,
+    "cleanArchivePassed": true,
+    "cleanArchiveApplicationFilesMatched": 35,
+    "finalParserRegressionsPassed": true,
+    "latestRunRequests": 7,
+    "latestRunJobs": 2,
+    "latestRunPartialScope": "one candidate per selected employer; additional listings remain unchecked"
+  },
+  "externalState": {
+    "claimed": false,
+    "buildUrl": null,
+    "linkedInPostUrl": null,
+    "discordPostUrl": null,
+    "submissionId": null,
+    "submissionReceipt": null,
+    "published": false,
+    "submitted": false
+  },
+  "remaining": [
+    "Approve source publication and verify a reviewer-accessible build link",
+    "Approve and publish required LinkedIn and Discord drafts with the verified build link",
+    "Review the completed bounty form and explicitly approve claiming/submission"
+  ],
+  "approvalSource": "Original user instruction forbids publishing, paid deployment, social posting and bounty submission without approval",
+  "verificationInProgress": false,
+  "checkedAt": "2026-10-15T07:10:18.115640+00:00",
+  "dailyRequestBudget": {
+    "used": 46,
+    "limit": 64,
+    "default": 40,
+    "timezone": "Asia/Kolkata",
+    "ledgerReset": false,
+    "limitRaisedWithUserApproval": true,
+    "previousLimit": 40,
+    "authorizationReceipt": "request-limit-authorization.json"
+  }
+}

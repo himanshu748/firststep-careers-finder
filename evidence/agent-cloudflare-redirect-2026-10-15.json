@@ -1,0 +1,67 @@
+{
+  "kind": "TinyFish live search evidence",
+  "recordedAt": "2026-10-15T05:56:24.635Z",
+  "checkedAt": "2026-10-15T05:56:23.524Z",
+  "runId": "b7fbff1a-2d8f-41d6-89b7-d8d5629d5dd8",
+  "workflow": "agent",
+  "input": {
+    "keywords": "software",
+    "location": "",
+    "remote": "any",
+    "employmentType": "any",
+    "seniority": "early-career",
+    "visa": "any",
+    "domains": [
+      "cloudflare.com",
+      "affirm.com"
+    ],
+    "maxJobs": 2
+  },
+  "status": "partial",
+  "requests": 9,
+  "reports": [
+    {
+      "employer": "Cloudflare",
+      "status": "partial",
+      "code": "some_sources_unverified",
+      "count": 0,
+      "pagesVisited": 1,
+      "agentSteps": 12
+    },
+    {
+      "employer": "Affirm",
+      "status": "complete",
+      "code": null,
+      "count": 1,
+      "pagesVisited": 2,
+      "agentSteps": 8
+    }
+  ],
+  "error": null,
+  "jobs": [
+    {
+      "title": "Software Engineer, Early Career (SF)",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+      "location": "San Francisco, California, United States",
+      "workArrangement": "hybrid",
+      "geographicRestriction": null,
+      "experienceRequirements": "This position requires either equivalent practical experience or a Bachelor’s degree in a related field.",
+      "seniority": "entry-level",
+      "employmentType": "unknown",
+      "postedDate": null,
+      "deadline": null,
+      "visaSponsorship": null,
+      "sponsorshipAvailable": null,
+      "excerpt": "You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.",
+      "status": "open",
+      "employer": "Affirm",
+      "employerId": "affirm",
+      "checkedAt": "2026-10-15T05:56:23.522Z",
+      "id": "0bcd2092aface92401bc3cb2",
+      "matches": [
+        "software"
+      ],
+      "sourceVerified": true
+    }
+  ]
+}

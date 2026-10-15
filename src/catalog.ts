@@ -1,0 +1,11 @@
+// Starting points, never job fixtures. Operators must review permission before adding employers.
+export const employers = [
+  { id: 'cloudflare', name: 'Cloudflare', domain: 'cloudflare.com', url: 'https://www.cloudflare.com/careers/jobs/', hosts: ['www.cloudflare.com','cloudflare.com','boards.greenhouse.io','job-boards.greenhouse.io'], paths: ['/careers','/cloudflare','/robots.txt'], permission: 'Public career listings only; stop on access restrictions.' },
+  { id: 'stripe', name: 'Stripe', domain: 'stripe.com', url: 'https://stripe.com/careers/search', hosts: ['stripe.com','www.stripe.com'], paths: ['/careers','/jobs','/robots.txt'], permission: 'Public career listings only; stop on access restrictions.' },
+  { id: 'atlassian', name: 'Atlassian', domain: 'atlassian.com', url: 'https://www.atlassian.com/company/careers/all-jobs', hosts: ['www.atlassian.com','atlassian.com'], paths: ['/company/careers','/robots.txt'], permission: 'Public career listings only; stop on access restrictions.' },
+  { id: 'datadog', name: 'Datadog', domain: 'datadoghq.com', url: 'https://careers.datadoghq.com/all-jobs/', hosts: ['careers.datadoghq.com','boards.greenhouse.io','job-boards.greenhouse.io'], paths: ['/all-jobs','/detail','/early-careers','/datadog','/robots.txt'], permission: 'Public career listings only; stop on access restrictions.' },
+  { id: 'hubspot', name: 'HubSpot', domain: 'hubspot.com', url: 'https://www.hubspot.com/careers/jobs', hosts: ['www.hubspot.com','hubspot.com','boards.greenhouse.io','job-boards.greenhouse.io'], paths: ['/careers','/hubspot','/robots.txt'], permission: 'Public career listings only; stop on access restrictions.' },
+  { id: 'together', name: 'Together AI', domain: 'together.ai', url: 'https://job-boards.greenhouse.io/togetherai', hosts: ['job-boards.greenhouse.io'], paths: ['/togetherai','/robots.txt'], permission: 'Public Together AI board reviewed against company careers site on 14 October; read listings only.' },
+  { id: 'affirm', name: 'Affirm', domain: 'affirm.com', url: 'https://job-boards.greenhouse.io/affirm', hosts: ['job-boards.greenhouse.io'], paths: ['/affirm','/robots.txt'], permission: 'Public Affirm board reviewed against company careers site on 14 October; read listings only.' },
+] as const;
+export type Employer = typeof employers[number];

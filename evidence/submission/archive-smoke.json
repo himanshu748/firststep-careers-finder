@@ -1,0 +1,36 @@
+{
+  "kind": "observed clean source archive check; no external publication or TinyFish calls",
+  "checkedAt": "2026-10-15T07:08:15.191376+00:00",
+  "archiveUnderTestSha256": "949b8030d30c5f7b3b956cac037b6221ee81085332dee17a134a77b9a41011d7",
+  "checks": {
+    "install": {
+      "exitCode": 0
+    },
+    "typecheck": {
+      "exitCode": 0
+    },
+    "coreTests": {
+      "exitCode": 0,
+      "passed": 51
+    },
+    "build": {
+      "exitCode": 0
+    },
+    "localhost": {
+      "htmlAndAssets": true,
+      "setupState": true,
+      "csp": true,
+      "privateEnvironmentExcluded": true,
+      "privateHistoryExcluded": true,
+      "invalidHost403": true,
+      "crossOrigin403": true,
+      "missingSessionHeader403": true,
+      "unconfiguredSearch503": true,
+      "providerCalls": 0
+    }
+  },
+  "applicationFilesComparedToWorkspace": 35,
+  "applicationFilesAllMatch": true,
+  "temporaryServerStopped": true,
+  "limits": "Final archive may add refreshed documentation/evidence; source, scripts, tests and locked dependencies must still match this tested extraction."
+}

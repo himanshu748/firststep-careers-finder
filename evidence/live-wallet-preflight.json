@@ -1,0 +1,42 @@
+{
+  "kind": "redacted read-only TinyFish wallet preflight",
+  "checkedAt": "2026-10-14T13:15:36.189Z",
+  "sameKeyAsExistingProject": true,
+  "currency": "USD",
+  "positiveBalance": true,
+  "approvedReserveSatisfied": true,
+  "autoReload": "unconfigured",
+  "pendingTopUp": false,
+  "rates": [
+    {
+      "label": "TinyFish Agent",
+      "unit_amount": "0.016",
+      "currency": "USD",
+      "per": "step"
+    },
+    {
+      "label": "TinyFish Browser",
+      "unit_amount": "0.002",
+      "currency": "USD",
+      "per": "minute"
+    },
+    {
+      "label": "TinyFish Fetch",
+      "unit_amount": "0",
+      "currency": "USD",
+      "per": "url"
+    },
+    {
+      "label": "TinyFish Monitor",
+      "unit_amount": "0",
+      "currency": "USD",
+      "per": "run"
+    },
+    {
+      "label": "TinyFish Search",
+      "unit_amount": "0",
+      "currency": "USD",
+      "per": "query"
+    }
+  ]
+}

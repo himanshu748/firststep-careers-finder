@@ -1,0 +1,32 @@
+{
+  "kind": "TinyFish live search evidence",
+  "checkedAt": "2026-10-15T03:49:58.573Z",
+  "runId": "acd9a89e-1511-4f10-990d-15e22369ce1b",
+  "workflow": "browser",
+  "input": {
+    "keywords": "engineer",
+    "location": "San Francisco",
+    "remote": "any",
+    "employmentType": "any",
+    "seniority": "early-career",
+    "visa": "any",
+    "domains": [
+      "together.ai",
+      "affirm.com"
+    ],
+    "maxJobs": 2
+  },
+  "status": "failed",
+  "requests": 5,
+  "reports": [
+    {
+      "employer": "Together AI",
+      "status": "failed",
+      "code": "timeout",
+      "count": 0,
+      "pagesVisited": null
+    }
+  ],
+  "error": "timeout",
+  "jobs": []
+}

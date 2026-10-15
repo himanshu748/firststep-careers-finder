@@ -1,0 +1,16 @@
+{
+  "kind": "local configuration authorization; not a purchase or wallet-limit change",
+  "checkedAt": "2026-10-15T06:25:23.575626+00:00",
+  "authority": "User explicitly requested immediate validation and authorized increasing the limit if needed",
+  "oldDailyLimit": 40,
+  "newDailyLimit": 64,
+  "defaultDailyLimit": 40,
+  "additionalDailyRequestAllowance": 24,
+  "usageLedgerReset": false,
+  "paidStepLimitChanged": false,
+  "perRunRequestLimit": 32,
+  "maxEmployers": 5,
+  "maxJobs": 20,
+  "purchaseOrTopUpAuthorized": false,
+  "publicationOrSubmissionAuthorized": false
+}

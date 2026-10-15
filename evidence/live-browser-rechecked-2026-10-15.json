@@ -1,0 +1,98 @@
+{
+  "kind": "Genuine TinyFish Browser run with a fresh Fetch source recheck",
+  "checkedAt": "2026-10-15T03:51:31.504Z",
+  "runId": "dbbe83c3-4be6-4779-9114-d39f5cd898c4",
+  "workflow": "browser",
+  "input": {
+    "keywords": "software engineer",
+    "location": "",
+    "remote": "any",
+    "employmentType": "any",
+    "seniority": "early-career",
+    "visa": "any",
+    "domains": [
+      "together.ai",
+      "affirm.com"
+    ],
+    "maxJobs": 2
+  },
+  "status": "partial",
+  "requests": 12,
+  "reports": [
+    {
+      "employer": "Together AI",
+      "status": "partial",
+      "code": null,
+      "count": 1,
+      "pagesVisited": 1,
+      "cleanup": "confirmed"
+    },
+    {
+      "employer": "Affirm",
+      "status": "partial",
+      "code": null,
+      "count": 1,
+      "pagesVisited": 1,
+      "cleanup": "confirmed"
+    }
+  ],
+  "error": null,
+  "jobs": [
+    {
+      "title": "Systems Research Engineer Intern - GPU Programming (Summer 2027)",
+      "sourceUrl": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007",
+      "location": "San Francisco",
+      "workArrangement": "unknown",
+      "geographicRestriction": null,
+      "experienceRequirements": "Strong background in GPU programming and parallel computing, such as CUDA and/or Triton.",
+      "seniority": "internship",
+      "employmentType": "internship",
+      "postedDate": null,
+      "deadline": null,
+      "visaSponsorship": null,
+      "sponsorshipAvailable": null,
+      "excerpt": "As a Systems Research Engineer Intern specialized in GPU Programming, you will play a crucial role in developing and optimizing GPU-accelerated kernels and algorithms for ML/AI applications. Working closely with the modeling and algorithm team, you will co-design GPU kernels and model architecture to enhance the performance and efficiency of our AI systems. Collaborating with the hardware and software teams, you will contribute to the co-design of efficient GPU architectures and programming models, leveraging your expertise in GPU programming and parallel computing. Your research skills will be vital in staying up-to-date with the latest advancements in GPU programming techniques, ensuring that our AI infrastructure remains at the forefront of innovation.",
+      "status": "open",
+      "id": "0fae9e532132e765d99faa92",
+      "employer": "Together AI",
+      "employerId": "together",
+      "checkedAt": "2026-10-15T03:51:31.457Z",
+      "matches": [
+        "software",
+        "engineer"
+      ],
+      "sourceVerified": true
+    },
+    {
+      "title": "Software Engineer, Early Career (SF)",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+      "location": "San Francisco, California, United States",
+      "workArrangement": "hybrid",
+      "geographicRestriction": null,
+      "experienceRequirements": "This position requires either equivalent practical experience or a Bachelor’s degree in a related field.",
+      "seniority": "entry-level",
+      "employmentType": "unknown",
+      "postedDate": null,
+      "deadline": null,
+      "visaSponsorship": null,
+      "sponsorshipAvailable": null,
+      "excerpt": "You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.",
+      "status": "open",
+      "id": "0bcd2092aface92401bc3cb2",
+      "employer": "Affirm",
+      "employerId": "affirm",
+      "checkedAt": "2026-10-15T03:51:31.482Z",
+      "matches": [
+        "software",
+        "engineer"
+      ],
+      "sourceVerified": true
+    }
+  ],
+  "sourceRefresh": {
+    "endpoint": "TinyFish Fetch",
+    "providerRequests": 1,
+    "urlCount": 2,
+    "errors": 0
+  }
+}

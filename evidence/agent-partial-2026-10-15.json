@@ -1,0 +1,66 @@
+{
+  "kind": "TinyFish live search evidence",
+  "recordedAt": "2026-10-15T05:52:25.222Z",
+  "checkedAt": "2026-10-15T05:52:25.192Z",
+  "runId": "2b73f601-d10b-4ef5-907c-bdc36b17c390",
+  "workflow": "agent",
+  "input": {
+    "keywords": "engineer",
+    "location": "San Francisco",
+    "remote": "any",
+    "employmentType": "any",
+    "seniority": "early-career",
+    "visa": "any",
+    "domains": [
+      "together.ai",
+      "affirm.com"
+    ],
+    "maxJobs": 2
+  },
+  "status": "partial",
+  "requests": 7,
+  "reports": [
+    {
+      "employer": "Together AI",
+      "status": "failed",
+      "code": "agent_failed",
+      "count": 0,
+      "pagesVisited": null
+    },
+    {
+      "employer": "Affirm",
+      "status": "partial",
+      "code": null,
+      "count": 1,
+      "pagesVisited": 2,
+      "agentSteps": 15
+    }
+  ],
+  "error": null,
+  "jobs": [
+    {
+      "title": "Software Engineer, Early Career (SF)",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+      "location": "San Francisco, California, United States",
+      "workArrangement": "hybrid",
+      "geographicRestriction": "United States",
+      "experienceRequirements": "This position requires either equivalent practical experience or a Bachelor's degree in a related field.",
+      "seniority": "entry-level",
+      "employmentType": "unknown",
+      "postedDate": null,
+      "deadline": null,
+      "visaSponsorship": null,
+      "sponsorshipAvailable": null,
+      "excerpt": "In our hybrid early career program, you'll be paired with a tenured Affirmer and have an opportunity to collaborate in-person 3 days a week out of our New York City, or San Francisco offices.",
+      "status": "open",
+      "employer": "Affirm",
+      "employerId": "affirm",
+      "checkedAt": "2026-10-15T05:52:25.191Z",
+      "id": "0bcd2092aface92401bc3cb2",
+      "matches": [
+        "engineer"
+      ],
+      "sourceVerified": true
+    }
+  ]
+}

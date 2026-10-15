@@ -1,0 +1,61 @@
+{
+  "kind": "genuine verified jobs across separate Agent runs; NOT one successful combined demo and NOT loaded as production jobs",
+  "recordedAt": "2026-10-15T06:06:20.788935+00:00",
+  "sourceRunIds": [
+    "b7fbff1a-2d8f-41d6-89b7-d8d5629d5dd8",
+    "061a910a-7a37-4aad-8fdc-e9948483520c"
+  ],
+  "combinedDemoPassed": false,
+  "latestCombinedRun": "061a910a-7a37-4aad-8fdc-e9948483520c",
+  "jobs": [
+    {
+      "title": "Software Engineer, Early Career (SF)",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+      "location": "San Francisco, California, United States",
+      "workArrangement": "hybrid",
+      "geographicRestriction": null,
+      "experienceRequirements": "This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field.",
+      "seniority": "entry-level",
+      "employmentType": "unknown",
+      "postedDate": null,
+      "deadline": null,
+      "visaSponsorship": null,
+      "sponsorshipAvailable": null,
+      "excerpt": "You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.",
+      "status": "open",
+      "employer": "Affirm",
+      "employerId": "affirm",
+      "checkedAt": "2026-10-15T05:56:23.522Z",
+      "id": "0bcd2092aface92401bc3cb2",
+      "matches": [
+        "software"
+      ],
+      "sourceVerified": true
+    },
+    {
+      "title": "Software Engineer Intern (2027)",
+      "sourceUrl": "https://job-boards.greenhouse.io/cloudflare/jobs/8245197",
+      "location": null,
+      "workArrangement": "unknown",
+      "geographicRestriction": null,
+      "experienceRequirements": "Currently pursuing a degree or program in Computer Science, Engineering, Mathematics, Statistics or relevant field to the role.",
+      "seniority": "internship",
+      "employmentType": "internship",
+      "postedDate": null,
+      "deadline": null,
+      "visaSponsorship": null,
+      "sponsorshipAvailable": null,
+      "excerpt": "Software Engineer Intern (2027)",
+      "status": "open",
+      "employer": "Cloudflare",
+      "employerId": "cloudflare",
+      "checkedAt": "2026-10-15T06:02:53.039Z",
+      "id": "10a01d2a062e95292f6fc4e2",
+      "matches": [
+        "software"
+      ],
+      "sourceVerified": true
+    }
+  ],
+  "limits": "Affirm was verified at 05:56 UTC, Cloudflare at 06:02 UTC. Their original checkedAt values are retained; no new source retrieval or Agent execution is claimed."
+}

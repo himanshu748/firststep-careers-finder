@@ -1,0 +1,341 @@
+{
+  "kind": "local source archive; not a submission receipt",
+  "createdAt": "2026-10-15T07:10:18.473922+00:00",
+  "files": {
+    "careers-finder/.env.example": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "careers-finder/.gitignore": {
+      "sha256": "5cbe295e06356b41c247ad84fb59e144d0e327af667e2eebf803cbfc77572671",
+      "bytes": 108
+    },
+    "careers-finder/README.md": {
+      "sha256": "2554143aaa78afbab64c84af574b0568b14fac6fd168828beeb0e66fcb99b7e1",
+      "bytes": 18392
+    },
+    "careers-finder/docs/ACCEPTANCE.md": {
+      "sha256": "a73559f76e0f0f3a1acabd33521fda070c18a562f3f8bc064e0d48321c4fe17c",
+      "bytes": 7098
+    },
+    "careers-finder/docs/DEMO.md": {
+      "sha256": "29261a6f9cc829dcfd03faf663cf0bf357a2b8eab6ce70af52c776ef9047e454",
+      "bytes": 5080
+    },
+    "careers-finder/docs/DESIGN.md": {
+      "sha256": "411dac8c26661fa1f9fd13f5c44fe7efaf948d3e88bab5d8655f61506163d63c",
+      "bytes": 4649
+    },
+    "careers-finder/docs/PUBLICATION-PLAN.md": {
+      "sha256": "93008c290ddd736df70d13bd57f3b5274b2023ec632e3b6246b9bb9b3b838525",
+      "bytes": 2136
+    },
+    "careers-finder/docs/SUBMISSION.md": {
+      "sha256": "a968705d70bd4b5f2c03c141beecfe7ccd021d01e43ce35717d1acc2cb8caaae",
+      "bytes": 6903
+    },
+    "careers-finder/evidence/VERIFICATION.md": {
+      "sha256": "7bc087e08322412ed585da915f4211dab3e3948e9a34a5f110868b60a44d77f1",
+      "bytes": 9342
+    },
+    "careers-finder/evidence/agent-candidate-diagnostic.json": {
+      "sha256": "45eb9a84b764254042a4ef4659382d65fcfc9dbeafe52a3107ded945cc6275e1",
+      "bytes": 3554
+    },
+    "careers-finder/evidence/agent-cloudflare-redirect-2026-10-15.json": {
+      "sha256": "9a3e26d18462f3c4c71c33325b13d292a4b5d831b071ebe1d47c9427f1a68bd2",
+      "bytes": 1976
+    },
+    "careers-finder/evidence/agent-final-partial-2026-10-15.json": {
+      "sha256": "bade9a3c799cbc1777cc2f41136eb27fff263671438c71c251fe428af43bdc2d",
+      "bytes": 1745
+    },
+    "careers-finder/evidence/agent-first-attempt-2026-10-15.json": {
+      "sha256": "8160d3cbc2d567dc89ccb84abcdbee9660acf7c79ebcccbb04bfb30d7c3bdc49",
+      "bytes": 645
+    },
+    "careers-finder/evidence/agent-partial-2026-10-15.json": {
+      "sha256": "46162797b35e2f2d59cf7ce093ce985175f55ef88d8d543541743e379e362b5e",
+      "bytes": 1936
+    },
+    "careers-finder/evidence/agent-partial-desktop-2026-10-15.jpg": {
+      "sha256": "4a8d82f2e977b6705ee11fd66c600d08779358b0736b2c1cb6a43eb691545fee",
+      "bytes": 139905
+    },
+    "careers-finder/evidence/agent-partial-mobile-2026-10-15.jpg": {
+      "sha256": "52dfc3e7acf836776c4f73dcd184dd69daed122a8385610dd7a26f331cb618b2",
+      "bytes": 99922
+    },
+    "careers-finder/evidence/agent-step-cap-preflight.json": {
+      "sha256": "9d79fb208aede57de0098a74fe2ecb85054bd4c7b1797fef86fe829d4925d460",
+      "bytes": 413
+    },
+    "careers-finder/evidence/agent-verified-jobs-2026-10-15.json": {
+      "sha256": "8cbda1172b6f17904883bc004df939d76bad2b7c09cec68c9e7eb6fb80e20c07",
+      "bytes": 2572
+    },
+    "careers-finder/evidence/build.txt": {
+      "sha256": "86369e7a1c08cb3c07db0052e093942f6b838dd5bb0c7c914284ffa1d0ae4ec1",
+      "bytes": 47
+    },
+    "careers-finder/evidence/desktop-live.png": {
+      "sha256": "88b67ce79462e556186f935e08f02f59e85a03572bc4868798d0ad68a7d5f4ed",
+      "bytes": 204667
+    },
+    "careers-finder/evidence/followup-design-after.json": {
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    "careers-finder/evidence/followup-design-triage.json": {
+      "sha256": "98b86bc005e3ab47d34f4c78543e99b13da6114af6fb62120df2de24169ad5fb",
+      "bytes": 1395
+    },
+    "careers-finder/evidence/live-agent-combined-2026-10-15.json": {
+      "sha256": "de64ddcab4ae67c92ba6063629d9824aae38269fec5b61b4bd262131d012750c",
+      "bytes": 3517
+    },
+    "careers-finder/evidence/live-attempt-2026-10-15.json": {
+      "sha256": "77fe8f394ff023dfda250f55afbf390c5f71025817ee570a1f939827282d13f4",
+      "bytes": 663
+    },
+    "careers-finder/evidence/live-browser-rechecked-2026-10-15.json": {
+      "sha256": "e71750f9add5e00af77b84ed7c0be899b1f1d669034e3631025f9ab2a52f67dd",
+      "bytes": 3764
+    },
+    "careers-finder/evidence/live-combined-desktop-2026-10-15.jpg": {
+      "sha256": "9b822596e8d70873effbbdef3167ad1e80235f75972998872fe3a06cf6fbed39",
+      "bytes": 168841
+    },
+    "careers-finder/evidence/live-combined-mobile-2026-10-15.jpg": {
+      "sha256": "4293e443c4eb8c334e3560ff62598bd596fb3167716a8d3a35612a1506204f3a",
+      "bytes": 133844
+    },
+    "careers-finder/evidence/live-demo-2026-10-14.json": {
+      "sha256": "a36365a1cf9802d731351b77e309562986e02401d56b12d90b489a189a577f37",
+      "bytes": 3764
+    },
+    "careers-finder/evidence/live-demo.json": {
+      "sha256": "de64ddcab4ae67c92ba6063629d9824aae38269fec5b61b4bd262131d012750c",
+      "bytes": 3517
+    },
+    "careers-finder/evidence/live-jobs-2026-10-15.csv": {
+      "sha256": "8551fd795370c0fc9b1232dc9f3d25d747e48287661d48dc3a118b524177fcc5",
+      "bytes": 575
+    },
+    "careers-finder/evidence/live-jobs-combined-2026-10-15.csv": {
+      "sha256": "7a071c310fb347d5ad20fa03ed024d9eac1d2076c414407cffbfc0b7d0969626",
+      "bytes": 959
+    },
+    "careers-finder/evidence/live-jobs.csv": {
+      "sha256": "36c4c28a432f3b738ba965ebcfec924fc6f1e32957fc57a4e185707d3a084783",
+      "bytes": 954
+    },
+    "careers-finder/evidence/live-wallet-preflight.json": {
+      "sha256": "b94d3da54f4ab8623f78ae7d17e7a1e2b4c4e074ae03f14f197aee4ddf3529d7",
+      "bytes": 897
+    },
+    "careers-finder/evidence/live-wallet-receipt.json": {
+      "sha256": "bfa07251bbd4d24a5b9bd6946e5133c85619f43019287ccec6f2939511b14b6c",
+      "bytes": 267
+    },
+    "careers-finder/evidence/mobile-live.png": {
+      "sha256": "89e58d6a1c2ebfab8557943df46e044447d7c1b768368aa72e47f7735c9b0c3b",
+      "bytes": 175122
+    },
+    "careers-finder/evidence/preflight-failure-2026-10-15.json": {
+      "sha256": "59d97d3cf60ceeacf22c7cc683da72feefdfe8f6faca153b9d332eade51e0c01",
+      "bytes": 537
+    },
+    "careers-finder/evidence/readiness-checks.json": {
+      "sha256": "9a8ec35d38b7db965708464142c5bd4bd4080eab12b0757452866d5e50c92d95",
+      "bytes": 2355
+    },
+    "careers-finder/evidence/submission/archive-smoke.json": {
+      "sha256": "f5135af1f03b1cfc50d9939689a632051dc761d33d104dc10dced8d6848aff59",
+      "bytes": 1073
+    },
+    "careers-finder/evidence/submission/request-limit-authorization.json": {
+      "sha256": "fea2805aaddef23e879ee8df292dfa16296a3efa6d2edce972476b57b772dcdc",
+      "bytes": 577
+    },
+    "careers-finder/evidence/submission/rules-check.json": {
+      "sha256": "43d043e4844155f9fdd106f5a5c42a8274d7d5f98166b56f62e22b01ad05b68f",
+      "bytes": 659
+    },
+    "careers-finder/evidence/submission/secret-scan.json": {
+      "sha256": "de795da06df77724c022eacbded64d314a38a2070c00511900ef4c360427dab1",
+      "bytes": 1563
+    },
+    "careers-finder/evidence/submission/status.json": {
+      "sha256": "038d7c1407436478cf3938d41354b1441b27ce4cc0977cc01e7ff22533898375",
+      "bytes": 2908
+    },
+    "careers-finder/evidence/typecheck.txt": {
+      "sha256": "045e78ac156f27c4ebbb03cbf183fb70ff7fe9463532c72963ff21ef8a0b6e3b",
+      "bytes": 56
+    },
+    "careers-finder/evidence/ui-tests.txt": {
+      "sha256": "20adab2f0a71c9e2efb5ae197d17eccd5ea0afde73c744aff2389c7d626ecd86",
+      "bytes": 1480
+    },
+    "careers-finder/evidence/unit-tests.txt": {
+      "sha256": "685a3eed246915bb0bc5932f659c76757eed01c35411a2c8842b8db6e730dcff",
+      "bytes": 11302
+    },
+    "careers-finder/evidence/wallet-check-2026-10-15.json": {
+      "sha256": "a981326b7e3f3cbb6551f8f86b1ae60d7cc09be054336e49e81ceaaa9026b3b0",
+      "bytes": 852
+    },
+    "careers-finder/package-lock.json": {
+      "sha256": "1d6bd6df3299d6965628d6a62bad20c78d4447a09959417d9e969b0ffda4191f",
+      "bytes": 21436
+    },
+    "careers-finder/package.json": {
+      "sha256": "37f7687f3348442416d578070950d99bec49c3b276644a8f41762e36ca703e72",
+      "bytes": 744
+    },
+    "careers-finder/playwright.config.ts": {
+      "sha256": "91fdba69109f424c7da8724d66680fa457eb790d5cf45eae2383f1224b220583",
+      "bytes": 426
+    },
+    "careers-finder/public/app.js": {
+      "sha256": "cdddd772f3cbff63aa3cbbaaa9ecec3e0165736c6ff449c5a0d494cbf6553633",
+      "bytes": 18510
+    },
+    "careers-finder/public/fonts/Manrope-OFL.txt": {
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "bytes": 4387
+    },
+    "careers-finder/public/fonts/PROVENANCE.md": {
+      "sha256": "6a0fd811ec267c464cf27ca4e686947c51c2f7c52ac9f7e63fcea2ac3b3112f6",
+      "bytes": 1025
+    },
+    "careers-finder/public/fonts/SpaceGrotesk-OFL.txt": {
+      "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72",
+      "bytes": 4495
+    },
+    "careers-finder/public/fonts/manrope-latin.woff2": {
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+      "bytes": 24836
+    },
+    "careers-finder/public/fonts/space-grotesk-latin.woff2": {
+      "sha256": "0640890476fc1198ab4de571fb658de443c4d85b66466ec09534a8737ab1ce9d",
+      "bytes": 22288
+    },
+    "careers-finder/public/index.html": {
+      "sha256": "302ec60932c29eb5dec0148fa1ae59e240933cff696b04f5de8d9e047e7c97bd",
+      "bytes": 10535
+    },
+    "careers-finder/public/shared.mjs": {
+      "sha256": "c5de48564a8e76534641db89371cd7667f384833ee1bfd56d4301948aae27ca7",
+      "bytes": 2489
+    },
+    "careers-finder/public/style.css": {
+      "sha256": "26b4dfecfa6ac028ab0b7ea3c70558c346676f7cfda5e1a57fba58bf96e5c8b2",
+      "bytes": 21758
+    },
+    "careers-finder/scripts/demo-client.ts": {
+      "sha256": "1a16932a1ab514b6ad834c181faf40205188b86c3741e0cc99e5648ce3fb0ecf",
+      "bytes": 2999
+    },
+    "careers-finder/scripts/demo.ts": {
+      "sha256": "93fb71f56b0656437f0e90e2ae17f299a00ded5b9f2eb525cb59b7c0437051a1",
+      "bytes": 3306
+    },
+    "careers-finder/scripts/package-release.py": {
+      "sha256": "873c55ac17d7fe23dddeba7bfd78196f4d05d7bcc049e3353b6058dbf7ca016c",
+      "bytes": 6805
+    },
+    "careers-finder/scripts/refresh-demo.ts": {
+      "sha256": "e67a14d8051f81490f3d8412e46fbcec4be8db7a311355af4cf3994ad8fe0f66",
+      "bytes": 4638
+    },
+    "careers-finder/src/browser.ts": {
+      "sha256": "fef4d99670c2d37f97ad8ac0cd656293373243fcaba5b3f542453f0b55972f96",
+      "bytes": 15690
+    },
+    "careers-finder/src/budget.ts": {
+      "sha256": "9aa30a8ee1168d2c518c1fe90f74a9e4409bf506930cca904542b999f6ab1cd2",
+      "bytes": 1512
+    },
+    "careers-finder/src/catalog.ts": {
+      "sha256": "8ea3f68f06eabe9753aa5768377f3f62bd403d9f803dea514235b86b5ee75794",
+      "bytes": 2319
+    },
+    "careers-finder/src/history.ts": {
+      "sha256": "859fc6a3155efca59f6159e584428be6c9bbd8f66b922ac778854d1b0f0a9450",
+      "bytes": 2331
+    },
+    "careers-finder/src/model.ts": {
+      "sha256": "571e66820e38299cf5134ad9fbdb60e93c25150a90160442c6b342bd3fa4f55b",
+      "bytes": 9215
+    },
+    "careers-finder/src/policy.ts": {
+      "sha256": "9fbe2092059cf52ccf19a211574fd7178861ebf80e1be3256c950efa8821ab8b",
+      "bytes": 3800
+    },
+    "careers-finder/src/server.ts": {
+      "sha256": "7f657727c1c8cdb8fb7572b4b4a821ac2fcc1ee84f48a532307a41cea21a41b1",
+      "bytes": 5521
+    },
+    "careers-finder/src/service.ts": {
+      "sha256": "a5477da44dd53b61938b6f44853dcccc55f8c3f731a79b395aa4a58489d4023e",
+      "bytes": 12660
+    },
+    "careers-finder/src/tinyfish.ts": {
+      "sha256": "b3b0de8fab8abba6f6a9f891a05ae8462cfbc3d0cca10a51a1f2e6ce9049aa42",
+      "bytes": 8669
+    },
+    "careers-finder/tests/browser.test.ts": {
+      "sha256": "226f8740db6e027b27829f30010df2ef6f3dcaceedc93941f4d38094f5b0b79f",
+      "bytes": 8661
+    },
+    "careers-finder/tests/core.test.ts": {
+      "sha256": "1ad60b0d3098990fceb9d45626ee7398836a1c6968cc796ad414cd57762d1563",
+      "bytes": 10389
+    },
+    "careers-finder/tests/demo.test.ts": {
+      "sha256": "e0d4f2cd211745a944e19570121c77e08b221cab77e7f4f216d965d8a180e958",
+      "bytes": 2166
+    },
+    "careers-finder/tests/history.test.ts": {
+      "sha256": "a8a750272547aeac372f3a26b495114cbedd5b844234ce8cdd6f2c7fc685365f",
+      "bytes": 2019
+    },
+    "careers-finder/tests/public.test.mjs": {
+      "sha256": "c4ae85ade7d68118c9b762d6f929d782dc5865c32e6010a403867df8fb61e058",
+      "bytes": 2134
+    },
+    "careers-finder/tests/sdk.test.ts": {
+      "sha256": "4bd3ba6ba535ec752d51f7540484a5f635d9fd839ab641c10c3805358b133480",
+      "bytes": 5910
+    },
+    "careers-finder/tests/service.test.ts": {
+      "sha256": "4c6b3ab70ba35ea02a1d7afc94e0174862c3f63952aa6acba27a459f96f22023",
+      "bytes": 17282
+    },
+    "careers-finder/tests/ui/flow.spec.ts": {
+      "sha256": "ac2d087c3f5e3848d8fbadeafb15a015052461ecbd1991e6539e19290ae39469",
+      "bytes": 7967
+    },
+    "careers-finder/tsconfig.json": {
+      "sha256": "753ece97a22290a345fc04974edce93099841238aef3cf5dc419e59228a5f2c5",
+      "bytes": 237
+    }
+  },
+  "excluded": [
+    ".env",
+    ".data",
+    "node_modules",
+    "dist",
+    "test-results",
+    "playwright-report",
+    "release",
+    "unrelated parent projects"
+  ],
+  "scan": {
+    "knownCredentialValuesChecked": 1,
+    "matches": 0,
+    "limits": "Exact known key bytes and selected credential patterns; no history scan or guarantee against unknown secret formats."
+  }
+}

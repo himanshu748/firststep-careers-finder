@@ -1,0 +1,273 @@
+
+> firststep-careers-finder@0.1.0 test
+> tsx --test tests/*.test.ts tests/*.test.mjs
+
+TAP version 13
+# Subtest: Browser page parser keeps absent dates and remote restrictions explicit
+ok 1 - Browser page parser keeps absent dates and remote restrictions explicit
+  ---
+  duration_ms: 24.784209
+  ...
+# Subtest: OFFLINE CDP: connection timeout retains phase and DELETE outcome without raw errors
+ok 2 - OFFLINE CDP: connection timeout retains phase and DELETE outcome without raw errors
+  ---
+  duration_ms: 79.8745
+  ...
+# Subtest: role-specific hybrid and qualifications outweigh generic remote company copy
+ok 3 - role-specific hybrid and qualifications outweigh generic remote company copy
+  ---
+  duration_ms: 0.788833
+  ...
+# Subtest: link selection favors early career matches, caps and canonicalizes duplicates
+ok 4 - link selection favors early career matches, caps and canonicalizes duplicates
+  ---
+  duration_ms: 3.993541
+  ...
+# Subtest: OFFLINE Fetch listing links supplement delayed DOM without treating Search snippets as jobs
+ok 5 - OFFLINE Fetch listing links supplement delayed DOM without treating Search snippets as jobs
+  ---
+  duration_ms: 3.386083
+  ...
+# Subtest: OFFLINE CDP: exactly two listing pages, detail quota, GET guards and confirmed DELETE
+ok 6 - OFFLINE CDP: exactly two listing pages, detail quota, GET guards and confirmed DELETE
+  ---
+  duration_ms: 40.648042
+  ...
+# (node:85769) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+# (Use `node --trace-warnings ...` to show where the warning was created)
+# Subtest: inputs reject sixth employer, extra instructions and excessive text
+ok 7 - inputs reject sixth employer, extra instructions and excessive text
+  ---
+  duration_ms: 14.733583
+  ...
+# Subtest: null dates and unknown eligibility survive schema and normalization
+ok 8 - null dates and unknown eligibility survive schema and normalization
+  ---
+  duration_ms: 2.784709
+  ...
+# Subtest: date deadlines label expired but unknown and relative dates are not invented
+ok 9 - date deadlines label expired but unknown and relative dates are not invented
+  ---
+  duration_ms: 1.907625
+  ...
+# Subtest: remote India eligibility: US only is excluded, not stated remains unknown
+ok 10 - remote India eligibility: US only is excluded, not stated remains unknown
+  ---
+  duration_ms: 1.375916
+  ...
+# Subtest: literal keyword matches, type, seniority and explicit sponsorship filters
+ok 11 - literal keyword matches, type, seniority and explicit sponsorship filters
+  ---
+  duration_ms: 3.739333
+  ...
+# Subtest: source corroboration removes hallucinated dates, location and sponsorship
+ok 12 - source corroboration removes hallucinated dates, location and sponsorship
+  ---
+  duration_ms: 4.259459
+  ...
+# Subtest: geography needs explicit eligibility context, not an address or sponsorship question
+ok 13 - geography needs explicit eligibility context, not an address or sponsorship question
+  ---
+  duration_ms: 0.985667
+  ...
+# Subtest: Greenhouse job aliases canonicalize narrowly and validate current-host DNS
+ok 14 - Greenhouse job aliases canonicalize narrowly and validate current-host DNS
+  ---
+  duration_ms: 5.881541
+  ...
+# Subtest: canonical tracking URLs and normalized employer/title/location duplicates are collapsed
+ok 15 - canonical tracking URLs and normalized employer/title/location duplicates are collapsed
+  ---
+  duration_ms: 1.311542
+  ...
+# Subtest: SSRF policy checks protocol, credentials, paths, query secrets, hosts and all DNS answers
+ok 16 - SSRF policy checks protocol, credentials, paths, query secrets, hosts and all DNS answers
+  ---
+  duration_ms: 10.252458
+  ...
+# Subtest: persistent budget cannot be reset by restarting and reserves atomically
+ok 17 - persistent budget cannot be reset by restarting and reserves atomically
+  ---
+  duration_ms: 198.97275
+  ...
+# Subtest: explicit daily-limit increase preserves usage and keeps a finite ceiling
+ok 18 - explicit daily-limit increase preserves usage and keeps a finite ceiling
+  ---
+  duration_ms: 19.917792
+  ...
+# Subtest: robots longest-match, wildcard restrictions, TinyFish group, unknown text fail closed
+ok 19 - robots longest-match, wildcard restrictions, TinyFish group, unknown text fail closed
+  ---
+  duration_ms: 4.171625
+  ...
+# Subtest: pagination and backend duration bounded; prompt declares untrusted data and read-only actions
+ok 20 - pagination and backend duration bounded; prompt declares untrusted data and read-only actions
+  ---
+  duration_ms: 0.843917
+  ...
+# Subtest: provider error codes never expose raw messages or tokens
+ok 21 - provider error codes never expose raw messages or tokens
+  ---
+  duration_ms: 1.1415
+  ...
+# Subtest: OFFLINE CLI: lost status socket recovers without repeating the search POST
+ok 22 - OFFLINE CLI: lost status socket recovers without repeating the search POST
+  ---
+  duration_ms: 348.836667
+  ...
+# Subtest: OFFLINE CLI: three status failures stop with a fixed resumable error and no POST
+ok 23 - OFFLINE CLI: three status failures stop with a fixed resumable error and no POST
+  ---
+  duration_ms: 278.938333
+  ...
+# Subtest: OFFLINE CLI: invalid IDs and non-API paths are refused before connecting
+ok 24 - OFFLINE CLI: invalid IDs and non-API paths are refused before connecting
+  ---
+  duration_ms: 1.111166
+  ...
+# Subtest: history retains checked timestamps across restart and never resumes provider work
+ok 25 - history retains checked timestamps across restart and never resumes provider work
+  ---
+  duration_ms: 39.665333
+  ...
+# Subtest: history rejects malformed, fixture-mode, cross-employer and private source data
+ok 26 - history rejects malformed, fixture-mode, cross-employer and private source data
+  ---
+  duration_ms: 8.414875
+  ...
+# Subtest: CSV escapes spreadsheet formulas, quotes, newlines, null fields and source links
+ok 27 - CSV escapes spreadsheet formulas, quotes, newlines, null fields and source links
+  ---
+  duration_ms: 2.945375
+  ...
+# Subtest: saved-job validation discards unsafe links, invalid dates and unrelated data
+ok 28 - saved-job validation discards unsafe links, invalid dates and unrelated data
+  ---
+  duration_ms: 8.827625
+  ...
+# Subtest: filters handle remote, unknown, expired, employer and employment type
+ok 29 - filters handle remote, unknown, expired, employer and employment type
+  ---
+  duration_ms: 0.681375
+  ...
+# Subtest: OFFLINE TRANSPORT FIXTURE: official SDK request contracts, auth and no retries
+ok 30 - OFFLINE TRANSPORT FIXTURE: official SDK request contracts, auth and no retries
+  ---
+  duration_ms: 210.233792
+  ...
+# (node:85774) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+# (Use `node --trace-warnings ...` to show where the warning was created)
+# Subtest: pipeline checks sources, preserves unknown dates, and does not equate remote with India eligibility
+ok 31 - pipeline checks sources, preserves unknown dates, and does not equate remote with India eligibility
+  ---
+  duration_ms: 97.532167
+  ...
+# Subtest: OFFLINE redirect regression: bounded robots batch covers two employers and missing rules fail closed
+ok 32 - OFFLINE redirect regression: bounded robots batch covers two employers and missing rules fail closed
+  ---
+  duration_ms: 65.657917
+  ...
+# Subtest: OFFLINE live-bug regression: unsupported Agent seniority and misleading arrangement are checked against role text
+ok 33 - OFFLINE live-bug regression: unsupported Agent seniority and misleading arrangement are checked against role text
+  ---
+  duration_ms: 20.589375
+  ...
+# Subtest: at most five employers, twenty source jobs, two requested pages, per-employer quotas
+ok 34 - at most five employers, twenty source jobs, two requested pages, per-employer quotas
+  ---
+  duration_ms: 108.371
+  ...
+# Subtest: invalid pagination output is not silently accepted
+ok 35 - invalid pagination output is not silently accepted
+  ---
+  duration_ms: 5.426
+  ...
+# Subtest: duplicate canonical URLs are fetched once and identity duplicates are removed
+ok 36 - duplicate canonical URLs are fetched once and identity duplicates are removed
+  ---
+  duration_ms: 20.064041
+  ...
+# Subtest: blocked COMPLETED output yields blocked state and no fake listings
+ok 37 - blocked COMPLETED output yields blocked state and no fake listings
+  ---
+  duration_ms: 10.737
+  ...
+# Subtest: wallet safety prevents chargeable operations; unknown auto reload fails closed
+ok 38 - wallet safety prevents chargeable operations; unknown auto reload fails closed
+  ---
+  duration_ms: 19.680791
+  ...
+# Subtest: unknown or changed rates and insufficient credit reserve stop before search
+ok 39 - unknown or changed rates and insufficient credit reserve stop before search
+  ---
+  duration_ms: 18.312958
+  ...
+# Subtest: Agent permission refusal stops without retrying or switching workflows
+ok 40 - Agent permission refusal stops without retrying or switching workflows
+  ---
+  duration_ms: 9.794
+  ...
+# Subtest: public Agent reserves all 150 default steps per employer before discovery
+ok 41 - public Agent reserves all 150 default steps per employer before discovery
+  ---
+  duration_ms: 18.78725
+  ...
+# Subtest: failed Browser connection keeps confirmed cleanup and can check another employer
+ok 42 - failed Browser connection keeps confirmed cleanup and can check another employer
+  ---
+  duration_ms: 23.488542
+  ...
+# Subtest: Browser create and cleanup reserve atomically; an unconfirmed cleanup stops further sessions
+ok 43 - Browser create and cleanup reserve atomically; an unconfirmed cleanup stops further sessions
+  ---
+  duration_ms: 15.350041
+  ...
+# Subtest: Browser rate is separately verified before starting paid sessions
+ok 44 - Browser rate is separately verified before starting paid sessions
+  ---
+  duration_ms: 5.753542
+  ...
+# Subtest: daily budget exhaustion preserves verified partial results and does not retry
+ok 45 - daily budget exhaustion preserves verified partial results and does not retry
+  ---
+  duration_ms: 25.460167
+  ...
+# Subtest: external source URLs and cross-employer redirects never become results
+ok 46 - external source URLs and cross-employer redirects never become results
+  ---
+  duration_ms: 29.733167
+  ...
+# Subtest: API failure stops without exposing raw error; no automatic retry
+ok 47 - API failure stops without exposing raw error; no automatic retry
+  ---
+  duration_ms: 5.948083
+  ...
+# Subtest: unknown employers rejected, concurrent searches locked, no result seeds
+ok 48 - unknown employers rejected, concurrent searches locked, no result seeds
+  ---
+  duration_ms: 11.9305
+  ...
+# Subtest: robots restriction prevents agent launch
+ok 49 - robots restriction prevents agent launch
+  ---
+  duration_ms: 9.002875
+  ...
+# Subtest: pagination exhaustion with no jobs is partial, not a fabricated successful empty search
+ok 50 - pagination exhaustion with no jobs is partial, not a fabricated successful empty search
+  ---
+  duration_ms: 7.723917
+  ...
+# Subtest: Search-derived URL hints are validated and used, private hints are discarded
+ok 51 - Search-derived URL hints are validated and used, private hints are discarded
+  ---
+  duration_ms: 44.987625
+  ...
+1..51
+# tests 51
+# suites 0
+# pass 51
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 6230.178583
